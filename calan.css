@@ -1,0 +1,78 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+table{
+   border: 3px groove black;
+   margin: 4px;
+   position: fixed;
+   top:40px;
+   left:150px;
+   
+
+}
+tr{
+    width:80%;
+    
+}
+
+th{
+    border: 3px groove black;
+    text-align: center;
+    width:140px;
+    height:40px;
+    padding:0;
+}
+
+td{
+    border: 3px groove black;
+    height:100px;
+    padding:10px;
+    text-align: left;
+    vertical-align: top;
+}
+#id4
+{
+    background-image: url('nature1.jpeg');
+    background-size: 140px 100px;
+    background-repeat:no-repeat;
+}
+#id15
+{
+background-image: url('nature2.jpeg');
+background-size: 140px 100px;
+background-repeat:no-repeat;
+}
+#id18
+{
+    background-image: url('nature3.jpeg');
+    background-size: 140px 100px;
+    background-repeat:no-repeat;
+}
+#id20{
+    background-image: url('nature4.jpeg');
+background-size: 140px 100px;
+background-repeat:no-repeat;
+}
+#id23
+{
+    background-image: url('nature 5.jpeg');
+background-size: 140px 100px;
+background-repeat:no-repeat;
+}
+#id12{
+    background-image: url('cday.jpeg');
+    background-size: 140px 100px;
+    background-repeat:no-repeat;
+}
+#id25{
+    background-image: url('pas.jpeg');
+    background-size: 140px 100px ;
+    background-repeat:no-repeat ;
+}
+#id31{
+background-image: url('hall.jpg');
+background-size: 140px 100px ;
+background-repeat:no-repeat ;
+}
